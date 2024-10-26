@@ -7,7 +7,7 @@ from xml.etree.ElementTree import fromstring
 from xml.sax.saxutils import XMLGenerator
 
 "CLASS-PROJECTING" 
-("Classtesto"): (class)XMLGenerator; # type: ignore
+#("Classteste"): (class)XMLGenerator; # type: ignore
 
 
 property ("Meu jogos");
