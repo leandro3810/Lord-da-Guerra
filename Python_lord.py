@@ -50,3 +50,4 @@ property ("Meu jogos");
 #jogabilidade do jogo;
 
 #jogabilidade do jogo para window;
+#jogabilidade do jogo para linux
