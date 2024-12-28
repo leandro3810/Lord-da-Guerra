@@ -48,6 +48,7 @@ property ("Meu jogos");
 #tamanho do quadrado 2.00=2.00;
 #figura do jogo;
 #jogabilidade do jogo;
-
+# figura de bolas(tamanho da figura=(0.25x0.90));
 #jogabilidade do jogo para window;
-#jogabilidade do jogo para linux
+#jogabilidade do jogo para xbox;
+#finaliza o projeto de comitim....

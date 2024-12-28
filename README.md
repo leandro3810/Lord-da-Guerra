@@ -44,4 +44,5 @@ from xml.sax.saxutils import XMLGenerator
 #tamanho do quadrado 2.00=2.00;
 #figura do jogo;
 #jogabilidade do jogo
-
+# figura de bolas (tamanho da figura = (0.25x 0.90));
+#configura todas alteração do J1939_PGN_ADDRESS_COMMANDED;
