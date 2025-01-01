@@ -6,7 +6,7 @@
     "CLASS-PROJECTING" 
        ("Classtesto"): (class)XMLGenerator; # type: igno;
 
-#  ("x = 1 Altura - lagura do quadrado");
+# ("x = 1 Altura - lagura do quadrado");
 
 #  ("y = 1 Altura - Lagura do quadrado");
 

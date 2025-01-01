@@ -1,3 +1,4 @@
+{
 # Thank you for using Snapshots for AI
 
 Thanks for using Snapshots for AI. We hope this tool has helped you solve a problem or two. 
@@ -32,3 +33,4 @@ Help us grow our community and improve the plugin:
 ---
 
 Thank you for supporting open source software! 🙏
+}
