@@ -1,0 +1,116 @@
+﻿O ambiente virtual está sendo criado em 'C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env2'
+O ambiente virtual foi criado com êxito em 'C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env2'
+
+----- Clonando o modelo 'Microsoft/python-sklearn-regression-cookiecutter' -----
+Cloning into 'python-sklearn-regression-cookiecutter'...
+----- Modelo 'Microsoft/python-sklearn-regression-cookiecutter' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\python-sklearn-regression-cookiecutter' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'Microsoft/python-sklearn-regression-cookiecutter' -----
+
+----- Clonando o modelo 'MSOneCode/cookiecutter-iot-hub-documentdb-python-get-started' -----
+Cloning into 'cookiecutter-iot-hub-documentdb-python-get-started'...
+----- Modelo 'MSOneCode/cookiecutter-iot-hub-documentdb-python-get-started' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-iot-hub-documentdb-python-get-started' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'MSOneCode/cookiecutter-iot-hub-documentdb-python-get-started' -----
+
+----- Clonando o modelo 'MSOneCode/cookiecutter-iot-hub-python-get-started' -----
+Cloning into 'cookiecutter-iot-hub-python-get-started'...
+----- Modelo 'MSOneCode/cookiecutter-iot-hub-python-get-started' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-iot-hub-python-get-started' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'MSOneCode/cookiecutter-iot-hub-python-get-started' -----
+
+----- Clonando o modelo 'MSOneCode/cookiecutter-active-directory-python-graphapi-oauth2-0-access' -----
+Cloning into 'cookiecutter-active-directory-python-graphapi-oauth2-0-access'...
+----- Modelo 'MSOneCode/cookiecutter-active-directory-python-graphapi-oauth2-0-access' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-active-directory-python-graphapi-oauth2-0-access' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'MSOneCode/cookiecutter-active-directory-python-graphapi-oauth2-0-access' -----
+
+----- Clonando o modelo 'MSOneCode/cookiecutter-batch-data-lake-store-python-paas-cloud-service-pool' -----
+Cloning into 'cookiecutter-batch-data-lake-store-python-paas-cloud-service-pool'...
+----- Modelo 'MSOneCode/cookiecutter-batch-data-lake-store-python-paas-cloud-service-pool' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-batch-data-lake-store-python-paas-cloud-service-pool' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'MSOneCode/cookiecutter-batch-data-lake-store-python-paas-cloud-service-pool' -----
+
+----- Clonando o modelo 'MSOneCode/cookiecutter-batch-python-paas-cloud-service-pool' -----
+Cloning into 'cookiecutter-batch-python-paas-cloud-service-pool'...
+----- Modelo 'MSOneCode/cookiecutter-batch-python-paas-cloud-service-pool' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-batch-python-paas-cloud-service-pool' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'MSOneCode/cookiecutter-batch-python-paas-cloud-service-pool' -----
+
+----- Clonando o modelo 'Microsoft/python-sklearn-classifier-cookiecutter' -----
+Cloning into 'python-sklearn-classifier-cookiecutter'...
+----- Modelo 'Microsoft/python-sklearn-classifier-cookiecutter' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\python-sklearn-classifier-cookiecutter' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'Microsoft/python-sklearn-classifier-cookiecutter' -----
+
+----- Clonando o modelo 'Microsoft/python-sklearn-clustering-cookiecutter' -----
+Cloning into 'python-sklearn-clustering-cookiecutter'...
+----- Modelo 'Microsoft/python-sklearn-clustering-cookiecutter' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\python-sklearn-clustering-cookiecutter' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'Microsoft/python-sklearn-clustering-cookiecutter' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+
+----- Clonando o modelo 'cookiecutter/cookiecutter-django' -----
+Cloning into 'cookiecutter-django'...
+----- Modelo 'cookiecutter/cookiecutter-django' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-django' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'cookiecutter/cookiecutter-django' -----
+
+----- Clonando o modelo 'drivendataorg/cookiecutter-data-science' -----
+Cloning into 'cookiecutter-data-science'...
+----- Modelo 'drivendataorg/cookiecutter-data-science' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-data-science' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'drivendataorg/cookiecutter-data-science' -----
+
+----- Clonando o modelo 'cookiecutter-flask/cookiecutter-flask' -----
+Cloning into 'cookiecutter-flask'...
+----- Modelo 'cookiecutter-flask/cookiecutter-flask' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-flask' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'cookiecutter-flask/cookiecutter-flask' -----
+
+----- Clonando o modelo 'pydanny/cookiecutter-djangopackage' -----
+Cloning into 'cookiecutter-djangopackage'...
+----- Modelo 'pydanny/cookiecutter-djangopackage' clonado com êxito para 'C:\Users\LEDIELSON\.cookiecutters\cookiecutter-djangopackage' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
+C:\Users\LEDIELSON\OneDrive\Documentos\GitHub\Lord-da-Guerra\env\Scripts\python.exe retornou um código de saída de 103.
+----- Falha ao clonar o modelo 'pydanny/cookiecutter-djangopackage' -----
+Procurando o ambiente redirecionado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+Falha ao procurar o ambiente encontrado em 'C:\Users\LEDIELSON\AppData\Local\Microsoft\CookiecutterTools\env'
+No Python at 'C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python39_64\python.exe'
